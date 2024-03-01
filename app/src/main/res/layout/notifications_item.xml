@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:cardCornerRadius="14dp"
+        android:backgroundTint="@color/backgroundCard"
+        tools:ignore="MissingConstraints">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:fontFamily="@font/mitr_regular"
+            android:textColor="@color/textBlue"
+            android:text=""
+            android:id="@+id/bildirisTitle"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/bildirisDes"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/mitr_light"
+            android:textColor="#4E4E4E"
+            android:textSize="14dp"
+            android:justificationMode="inter_word"
+         />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="M.bekiyewa"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/mitr_light"
+        android:textColor="@color/subtitle"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="10dp"
+             android:id="@+id/tvData"
+             android:layout_alignParentEnd="true"
+             android:layout_marginEnd="5dp"
+             android:fontFamily="@font/mitr_extra_light"
+             android:textSize="12dp"
+             android:textColor="@color/textBlue"
+             android:text="21.04.2022y"/>
+    </RelativeLayout>
+</LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

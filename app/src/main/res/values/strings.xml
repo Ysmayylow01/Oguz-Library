@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Oguz Library</string>
+    <string name="tm">Türkmen dili</string>
+    <string name="dilsayla">Dil saýla</string>
+    <string name="en">Iňlis dili</string>
+    <string name="copirihgt">© Merdan Ysmaýylow 2024</string>
+    <string name="kitap">Kitaplar</string>
+    <string name="favorite">Halanlarym</string>
+    <string name="nofavorite">Siz halanlaryma hiç zat goşmadyňyz</string>
+    <string name="amaly_matematika">Amaly matematika we informatika</string>
+    <string name="informatika_we_hasaplayys">Kompyuter ylymlary we maglumat tehnologiýalary</string>
+    <string name="tituLink">https://www.etut.edu.tm</string>
+    <string name="emeli_an">Emeli aň we kiberhowpsuzlyk</string>
+    <string name="cat">Akylly çat</string>
+    <string name="formula">Formulalar</string>
+    <string name="sozluk">Sözlük</string>
+    <string name="zehin">Test</string>
+    <string name="barada">Barada</string>
+    <string name="gozle">Gözleg....</string>
+    <string name="matem">Matematika</string>
+    <string name="fizika">Fizika</string>
+    <string name="himiya">Himiýa</string>
+    <string name="gozletm">Gözleg (en⇄tm)</string>
+    <string name="informatika">Informatika</string>
+
+    <string name="inlis">Iňlisçe :</string>
+    <string name="turkmen">Türkmençe :</string>
+    <string name="okalys">Okalyşy :</string>
+    <string name="Aboutapp">Programma barada</string>
+    <string name="aboutFull">Oguz Library programmany ýükläniňiz üçin size örän minnetdar.Bu programma Oguz han uniwersitetiniň talyplaryna ýeňillik döretmek maksady bilen düzüldi.Programma göwnüňize ýaran bolsa baha bermegi unutmaň!</string>
+    <string name="oguzhan">Türkmenistanyň Oguzhan adyndaky inžener tehnologiýalar uniwersiteti</string>
+
+    <string name="versia">Wersiýa 2.1</string>
+    <string name="share">Paýlaşmak</string>
+    <string name="tapylmady">Gözleýän zadyňyz tapylmady.</string>
+    <string name="attention">Üns beriň</string>
+    <string name="çykjakmy">Siz hakykatdanam, çykmak isleýärsiňizmi?</string>
+    <string name="hawa">Hawa</string>
+    <string name="yok">Ýok</string>
+    <string name="dowam">Dowam etmek</string>
+    <string name="berekella">Berekella</string>
+    <string name="gowy">Gowy netije</string>
+    <string name="pes">Pes netije</string>
+    <string name="restart">Täzeden başla</string>
+    <string name="goybolsun">Goýbolsun et</string>
+    <string name="netije">10 - soragyň </string>
+    <string name="netije2"> - sanysyna dogry jogap berdiňiz.</string>
+    <string name="netije3">- sanysyna ýalnyş jogap berdiňiz</string>
+    <string name="minText">Minimumlar</string>
+    <string name="notification">Bildirişler</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

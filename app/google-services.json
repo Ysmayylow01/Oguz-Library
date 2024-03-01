@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230673839439",
+    "project_id": "oguz-library",
+    "storage_bucket": "oguz-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230673839439:android:950ce11f9f548e2ed3413a",
+        "android_client_info": {
+          "package_name": "com.example.walpapertm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPLIea5Gc4EwnypQG8ZU3yYsFR-B9Zvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230673839439:android:e6cd31f390443b05d3413a",
+        "android_client_info": {
+          "package_name": "oguz.library.etut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPLIea5Gc4EwnypQG8ZU3yYsFR-B9Zvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

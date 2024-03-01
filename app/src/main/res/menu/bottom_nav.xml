@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/math"
+        android:title="@string/matem"
+        android:icon="@drawable/ic_math"
+       />
+    <item
+        android:id="@+id/physics"
+        android:title="@string/fizika"
+        android:icon="@drawable/ic_physics"
+         />
+    <item
+        android:id="@+id/chemistry"
+        android:title="@string/himiya"
+        android:icon="@drawable/ic_chemistry"
+        />
+</menu>

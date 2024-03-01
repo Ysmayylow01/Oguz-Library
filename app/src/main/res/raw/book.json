@@ -1,0 +1,67 @@
+[
+  {
+    "image": "drawable/booksicon",
+    "title": "Emeli an",
+    "key_id": "1",
+    "subtitle": "sosoos",
+    "category": "ai",
+    "pdf": "minimums/math1.pdf"
+  },
+  {
+    "image": "drawable/booksicon",
+    "title": "titlfsfe",
+    "key_id": "2",
+    "subtitle": "asdfusb",
+    "category": "ai",
+    "pdf": "minimums/math1.pdf"
+  },
+  {
+    "image": "drawable/booksicon",
+    "title": "sol",
+    "key_id": "3",
+    "subtitle": "asdsdsdfusb",
+    "category": "math",
+    "pdf": "minimums/math1.pdf"
+  },
+  {
+    "image": "drawable/booksicon",
+    "title": "title",
+    "key_id": "4",
+    "subtitle": "ausb",
+    "category": "math",
+    "pdf": "minimums/math1.pdf"
+  },
+  {
+    "image": "drawable/booksicon",
+    "title": "1212",
+    "key_id": "5",
+    "subtitle": "asdfusb",
+    "category": "ai",
+    "pdf": "minimums/math1.pdf"
+  },
+  {
+    "image": "drawable/logo",
+    "title": "titlfsdsdsfe",
+    "key_id": "6",
+    "subtitle": "asdsdsdfusb",
+    "category": "math",
+    "pdf": "minimums/math1.pdf"
+  },
+
+  {
+    "image": "drawable/logo",
+    "title": "Information 1",
+    "key_id": "7",
+    "subtitle": "CSIT",
+    "category": "information",
+    "pdf": "minimums/math2.pdf"
+  },
+  {
+    "image": "drawable/booksicon",
+    "title": "Information 2",
+    "key_id": "8",
+    "subtitle": "CSIT",
+    "category": "information",
+    "pdf": "minimums/math3.pdf"
+  }
+]

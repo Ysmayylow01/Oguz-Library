@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+    <FrameLayout
+        android:id="@+id/frameForm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/edit_shape"
+        android:elevation="5dp"
+        android:padding="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imageForm"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:src="@drawable/mathicon" />
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center|top"
+               android:paddingStart="15dp"
+               android:paddingEnd="15dp"
+
+               android:orientation="vertical">
+               <TextView
+                   android:id="@+id/formSubtitle"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:text="Algebra"
+                   android:textSize="10dp"
+                   android:fontFamily="@font/mitr_light"
+                   android:textColor="@color/subtitle"/>
+            <TextView
+                android:id="@+id/formTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/mitr_regular"
+                android:text="Matematiki analiz name?"
+                android:textColor="@color/textBlue"
+                android:textSize="15dp" />
+        </LinearLayout>
+        </LinearLayout>
+
+
+
+    </FrameLayout>
+
+
+
+</RelativeLayout>

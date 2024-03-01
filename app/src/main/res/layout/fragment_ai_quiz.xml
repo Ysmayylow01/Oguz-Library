@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="@color/background"
+    android:orientation="vertical"
+    tools:context=".fragment.quiz.AIQuizFragment">
+
+
+    <TextView
+        android:id="@+id/gosmak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10"
+        android:fontFamily="@font/mitr_light"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="30dp"
+        android:textColor="@color/subtitle"
+        android:textSize="16dp" />
+
+
+    <TextView
+        android:id="@+id/sorag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gosmak"
+        android:layout_above="@id/lineee"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/mitr_regular"
+        android:gravity="center"
+        android:text="Seyle seyle sorag"
+        android:textColor="@color/textBlue"
+        android:textSize="18dp" />
+
+    <LinearLayout
+        android:id="@+id/lineee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/jogap_A"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/edit_shape"
+            android:textColor="@color/textBlue"
+            android:fontFamily="@font/mitr_light"
+            android:elevation="5dp"
+            android:enabled="true"
+            android:onClick="jogap_Aclicked"
+            android:padding="10dp"
+            android:text="A) jogap"
+            android:textAlignment="center"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/jogap_B"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/edit_shape"
+            android:enabled="true"
+            android:elevation="5dp"
+            android:textColor="@color/textBlue"
+            android:fontFamily="@font/mitr_light"
+            android:onClick="jogap_Bclicked"
+            android:padding="10dp"
+            android:text="B) Jogap"
+            android:textAlignment="center"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/jogap_C"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/edit_shape"
+            android:enabled="true"
+            android:elevation="5dp"
+            android:textColor="@color/textBlue"
+            android:fontFamily="@font/mitr_light"
+            android:onClick="jogap_Cclicked"
+            android:padding="10dp"
+            android:text="C) Jogap"
+            android:textAlignment="center"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/jogap_D"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/edit_shape"
+            android:padding="10dp"
+            android:enabled="true"
+            android:textColor="@color/textBlue"
+            android:elevation="5dp"
+            android:fontFamily="@font/mitr_light"
+            android:onClick="jogap_Dclicked"
+            android:text="D) Jogap"
+            android:textAlignment="center"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/Dowam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lineee"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="65dp"
+        android:background="@drawable/edit_shape"
+        android:backgroundTint="@color/textBlue"
+        android:enabled="true"
+        android:fontFamily="@font/mitr_medium"
+        android:onClick="dowam_clicked"
+        android:padding="10dp"
+        android:text="@string/dowam"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18dp" />
+
+
+</RelativeLayout>

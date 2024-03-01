@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Matematiki analiz",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math1.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Optimallaşdyrmagyň usullary",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math2.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Inženerler üçin ýokary matematika",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math3.pdf"
+  },
+  {
+    "id": 4,
+    "title": "Graflar nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math4.pdf"
+  },
+  {
+    "id": 5,
+    "title": "Ekstremal meseleler nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math5.pdf"
+  },
+  {
+    "id": 6,
+    "title": "Durnuklylyk nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math6.pdf"
+  },
+  {
+    "id": 7,
+    "title": "Matematiki fizikanyň usullary",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math7.pdf"
+  },
+  {
+    "id": 8,
+    "title": "Matematika-I",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math8.pdf"
+  },
+  {
+    "id": 9,
+    "title": "Matematiki logika we algoritmler nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math9.pdf"
+  },
+  {
+    "id": 10,
+    "title": "Diskret matematika we sanlar nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math10.pdf"
+  },
+  {
+    "id": 11,
+    "title": "Sanlar nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math11.pdf"
+  },
+  {
+    "id": 12,
+    "title": "Çyzykly algebra we analitiki geometriýa",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math12.pdf"
+  },
+  {
+    "id": 13,
+    "title": "Biometriýa we biostatistika",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math13.pdf"
+  },
+  {
+    "id": 14,
+    "title": "Kombinatorika we ähtimallyklar nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math14.pdf"
+  },
+  {
+    "id": 15,
+    "title": "Ähtimallyklar nazaryýeti  we matematiki statistika",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math15.pdf"
+  },
+  {
+    "id": 16,
+    "title": "Kompleks üýtgeýänli funksiýalar nazaryýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math16.pdf"
+  },
+  {
+    "id": 17,
+    "title": "Matematiki statistika",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math17.pdf"
+  },
+  {
+    "id": 18,
+    "title": "Wektor we tenzor analizi",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math18.pdf"
+  },
+  {
+    "id": 19,
+    "title": "Matematikany okatmagyň usulyýeti",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math19.pdf"
+  },
+  {
+    "id": 20,
+    "title": "Differensial deňlemeler",
+    "image": "drawable/mathicon",
+    "category": "math",
+    "pdf": "minimums/math20.pdf"
+  }
+]
